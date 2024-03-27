@@ -1,5 +1,33 @@
 [[TO DO LIST (WEBSITE)]]:
 
+# **Ultimate Goal**
+
+The ideal is to make LLM that translates major languages like English into Mongolian at high quality. I am expecting this project to be open source where Mongolian people offer detailed translation feedback on the model. The model should be able to make up new vocabulary for concepts that yet to have Mongolian word (this will be specially prominent in scientific information). For more scientifically rigourous stuff, there will need to be a peer-reviewing process for translation where the translation acquires something like "Official" stamp.
+
+Maybe this will help solve information inequality caused by language barrier.
+
+OSR = Open Source Resource. There are, of course, other types of resource than textbooks. But we will focus on textbooks for now. But in the future, there could be:
++ Papers
++ Reports
++ Videos
++ Webinars, etc etc (see https://www.openlogic.com/resources for reference)
+
+
+# **Goal for now**
+
+The next two weeks to month will for doing 1 and 2.
+1. Translate open source textbook into minor language
+2. Generate quizzes based on the contents of the textbook 
+3. Add functionalities to gamify the process
+4. Add tutorials and guide for various topics
+	5. Add forum
+6. Add private blog for my own shower thoughts and schizoposting 
+
+> see To Do List for more details of 1 and 2.
+
+---------------------------------
+
+
 ## Problem: There are very few educational resources for Mongolians online. Is that even a problem? Can't people just use google translate for stuff? Isn't that more efficient since it would mean there are more things available via google translate?
 
 GAME GAMINGGAMINGGAMING
